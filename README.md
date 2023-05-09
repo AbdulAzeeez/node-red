@@ -1,2 +1,2 @@
 # node-red
-using node red 2 control the led operation
+using node red to control the led operation
